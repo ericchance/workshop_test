@@ -1,0 +1,6 @@
+com\workshop\utility\Utility.class
+com\workshop\rest\TestService.class
+com\workshop\rest\RootRestService.class
+com\workshop\utility\StringListConverter$1.class
+com\workshop\utility\StringListConverter.class
+com\workshop\client\RestServiceClient.class

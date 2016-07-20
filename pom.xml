@@ -124,7 +124,7 @@
             </activation>
             <properties>
                 <build.warname>workshop_test</build.warname>
-                <restService.url>http://localhost:8080/${domain_name}/testservice</restService.url>
+                <restService.url>http://localhost:8080/${domain_name}/rest/testservice</restService.url>
                 <message.text>This is from local environment.</message.text>
             </properties>
         </profile>
